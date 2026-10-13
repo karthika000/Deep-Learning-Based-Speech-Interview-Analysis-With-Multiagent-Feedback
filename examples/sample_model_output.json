@@ -1,0 +1,22 @@
+{
+  "sample_id": "dummy_001",
+  "question": "Tell me about a challenging project you worked on and how you handled it.",
+  "transcript": "One challenging project I worked on was a deep learning voice interview coach. The difficult part was handling a large video dataset and converting it into clean audio files for training. I solved this by building a preprocessing pipeline, extracting audio, creating user-independent splits, and preparing the data for model training. I also coordinated with my team to divide the deep learning model training and feedback agent implementation.",
+  "predictions": {
+    "speaking_skills": 0.68,
+    "confidence_score": 0.52,
+    "interview_score": 0.61,
+    "overall_performance": 0.59,
+    "answer_score": 0.72
+  },
+  "acoustic_features": {
+    "duration_sec": 78.5,
+    "speaking_rate_wpm": 142,
+    "pause_count": 8,
+    "long_pause_count": 3,
+    "pause_ratio": 0.24,
+    "mean_pitch": 146.8,
+    "pitch_variation": 32.5,
+    "mean_energy": 0.038
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "sample_id": "144",
+  "question": "Introduce yourself",
+  "transcript": "[00:01 - 00:03] Hello, my name is Snehal Sinha.\n[00:03 - 00:04] I'm a computer science student with\n[00:04 - 00:06] a strong foundation in web and app development.\n[00:06 - 00:10] I love the feeling of creating something new to which people can interact with.\n[00:10 - 00:13] So I've honed my skills related to it like Angular,\n[00:13 - 00:17] React, Tailwind, Bootstrap, AppWrite for the database.\n[00:17 - 00:22] I love learning new things and enjoy myself engaging in debates and intellectual talks.\n[00:22 - 00:26] My experience in teamwork and leadership comes from serving in\n[00:26 - 00:31] student committee in my school and in organizing committees in my college.\n[00:31 - 00:32] I have passion for chess,\n[00:33 - 00:36] have represented myself in district level in various competitions,\n[00:36 - 00:39] which help me in problem solving, strategic thinking, etc.\n[00:39 - 00:41] Additionally, I love sketching, writing poetry,\n[00:42 - 00:43] have works related to it,\n[00:44 - 00:46] which brings a creative outlet in my life.\n[00:46 - 00:48] I am my personality talking about it.\n[00:48 - 00:51] I am light-hearted, empathetic with a little bit sense of humor,\n[00:51 - 00:53] but I'm very sincere and dedicated,\n[00:53 - 00:55] always striving to give my best in everything I do.\n[00:55 - 00:56] Thank you.\n[00:56 - 00:58] Thank you.",
+  "predictions": {
+    "speaking_skills": 0.45586812804699456,
+    "confidence_score": 0.423148757478621,
+    "interview_score": 0.3329256304529075,
+    "overall_performance": 0.42444601688908634,
+    "answer_score": null
+  },
+  "acoustic_features": {
+    "duration_sec": 58.48925,
+    "speaking_rate_wpm": 235.94079253879983,
+    "pause_count": null,
+    "long_pause_count": null,
+    "pause_ratio": 0.1005526656607839,
+    "mean_pitch": 192.54532125078404,
+    "pitch_variation": 40.353250366868,
+    "mean_energy": 0.0351164080202579
+  },
+  "interpreted_evidence": {
+    "score_evidence": {
+      "speaking_skills": "moderate",
+      "confidence_score": "moderate",
+      "interview_score": "needs improvement",
+      "overall_performance": "moderate",
+      "answer_score": "not available"
+    },
+    "acoustic_evidence": [
+      "Speaking rate is 236 WPM, which is fast and may sound rushed.",
+      "Pause ratio is 0.10, which suggests smooth delivery.",
+      "Pitch variation is 40.4, which suggests moderate expressiveness.",
+      "Mean energy is 0.035, which suggests acceptable delivery energy."
+    ]
+  },
+  "agent_outputs": {
+    "judge": "### Overall Evaluation\n\nThe candidate's response was delivered at a speaking rate of 236 WPM, which is fast and may sound rushed based on the extracted features. The pause ratio suggests smooth continuity with a moderate pause count. Pitch variation indicates moderate expressiveness, and mean energy levels are acceptable.\n\nOverall, the candidate demonstrated moderate speaking skills, confidence score, interview score, and overall performance. The response was clear but could benefit from better pacing to avoid sounding rushed.\n\n### Score Interpretation\n\n- **Speaking Skills**: Moderate\n- **Confidence Score**: Moderate\n- **Interview Score**: Needs Improvement\n- **Overall Performance**: Moderate\n\n### Acoustic Evidence\n\n- Speaking Rate: Fast (236 WPM)\n- Pause Ratio: 0.10, suggesting smooth continuity.\n- Pitch Variation: 40.4, moderate expressiveness.\n- Mean Energy: 0.035, acceptable delivery energy.\n\n### Transcript Evidence\n\n- The candidate provided a detailed introduction including technical skills, personal interests, and experiences.\n- There were no significant pauses or hesitations noted in the transcript.\n\n### Short Recommendation\n\nThe candidate's response was clear but could benefit from better pacing to avoid sounding rushed. Consider practicing with slower speaking rates to ensure smooth delivery without appearing rushed.",
+    "critic": "Main weaknesses:\n- The pause ratio suggests a moderate level of fluency, but there could be smoother transitions between ideas.\n- The low mean energy indicates that the candidate might benefit from engaging more with their responses to sound more dynamic and confident.\n\nEvidence:\n- Pause ratio: 0.10, suggesting smooth delivery but room for improvement in flow.\n- Mean energy: 0.035, indicating acceptable delivery energy but potentially could be enhanced for better engagement.\n\nImprovement priority:\nOne useful next step would be to practice connecting ideas more smoothly and adding more dynamic elements to the responses.",
+    "supporter": "Main strengths:\n- The candidate demonstrates a strong foundation in web and app development, which is relevant for many technical roles.\n- They show enthusiasm and passion through specific examples like their work with Angular, React, and AppWrite.\n\nEvidence:\n- Speaking rate: 236 WPM, suggesting the response could be more concise to maintain clarity.\n- Pause ratio: 0.10, indicating smooth delivery but possibly too smooth for some interview settings.\n- Mean energy: 0.035, which is low and may indicate a lack of engagement.\n\nEncouraging advice:\n\"This is a positive sign because you clearly articulated your skills and experiences related to web development. The candidate's enthusiasm and passion are evident through specific examples like Angular and React. However, the response could benefit from being more concise and engaging with pauses that support better flow. Keep up the strong foundation in technical areas; refining delivery can make your responses even stronger for interview practice.\"",
+    "coach": "## 1. Overall Summary\nThe candidate delivered a clear introduction with moderate speaking skills, confidence score, and overall performance. The response was smooth but could benefit from better pacing to avoid sounding rushed.\n\n## 2. Strengths\n- Demonstrated strong foundation in web and app development.\n- Showed enthusiasm through specific examples like Angular, React, and AppWrite.\n\n## 3. Acoustic Delivery Feedback\n- Speaking rate is moderate (236 WPM), which can sound a bit rushed.\n- Pause ratio is moderate (0.10), suggesting smooth delivery but room for improvement in flow.\n- Mean energy level is low (0.035), indicating potential for more engagement.\n\n## 4. Content/Transcript Feedback\n- Provided detailed introduction including technical skills and personal interests.\n- No significant pauses or hesitations noted in the transcript.\n\n## 5. Areas to Improve\n- Consider practicing with smoother transitions between ideas.\n- Add dynamic elements to responses to engage better with the audience.\n\n## 6. Actionable Suggestions\n- Use specific examples and anecdotes to connect ideas more smoothly.\n- Practice reducing speaking rate for a clearer, less rushed delivery.\n\n## 7. Next Practice Task\nTry delivering your introduction using the STAR method (Situation, Task, Action, Result) to structure responses better.\n\n## 8. Safety Note\nThis feedback is for interview practice only and must not be used for real hiring decisions."
+  },
+  "final_feedback": "## 1. Overall Summary\nThe candidate delivered a clear introduction with moderate speaking skills, confidence score, and overall performance. The response was smooth but could benefit from better pacing to avoid sounding rushed.\n\n## 2. Strengths\n- Demonstrated strong foundation in web and app development.\n- Showed enthusiasm through specific examples like Angular, React, and AppWrite.\n\n## 3. Acoustic Delivery Feedback\n- Speaking rate is moderate (236 WPM), which can sound a bit rushed.\n- Pause ratio is moderate (0.10), suggesting smooth delivery but room for improvement in flow.\n- Mean energy level is low (0.035), indicating potential for more engagement.\n\n## 4. Content/Transcript Feedback\n- Provided detailed introduction including technical skills and personal interests.\n- No significant pauses or hesitations noted in the transcript.\n\n## 5. Areas to Improve\n- Consider practicing with smoother transitions between ideas.\n- Add dynamic elements to responses to engage better with the audience.\n\n## 6. Actionable Suggestions\n- Use specific examples and anecdotes to connect ideas more smoothly.\n- Practice reducing speaking rate for a clearer, less rushed delivery.\n\n## 7. Next Practice Task\nTry delivering your introduction using the STAR method (Situation, Task, Action, Result) to structure responses better.\n\n## 8. Safety Note\nThis feedback is for interview practice only and must not be used for real hiring decisions.",
+  "safety_note": "This feedback is for interview practice only and must not be used for real hiring decisions or automated candidate selection."
+}

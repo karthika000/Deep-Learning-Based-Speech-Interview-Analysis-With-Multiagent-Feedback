@@ -1,0 +1,22 @@
+{
+    "sample_id": "144",
+    "question": "Introduce yourself",
+    "transcript": "[00:01 - 00:03] Hello, my name is Snehal Sinha.\n[00:03 - 00:04] I'm a computer science student with\n[00:04 - 00:06] a strong foundation in web and app development.\n[00:06 - 00:10] I love the feeling of creating something new to which people can interact with.\n[00:10 - 00:13] So I've honed my skills related to it like Angular,\n[00:13 - 00:17] React, Tailwind, Bootstrap, AppWrite for the database.\n[00:17 - 00:22] I love learning new things and enjoy myself engaging in debates and intellectual talks.\n[00:22 - 00:26] My experience in teamwork and leadership comes from serving in\n[00:26 - 00:31] student committee in my school and in organizing committees in my college.\n[00:31 - 00:32] I have passion for chess,\n[00:33 - 00:36] have represented myself in district level in various competitions,\n[00:36 - 00:39] which help me in problem solving, strategic thinking, etc.\n[00:39 - 00:41] Additionally, I love sketching, writing poetry,\n[00:42 - 00:43] have works related to it,\n[00:44 - 00:46] which brings a creative outlet in my life.\n[00:46 - 00:48] I am my personality talking about it.\n[00:48 - 00:51] I am light-hearted, empathetic with a little bit sense of humor,\n[00:51 - 00:53] but I'm very sincere and dedicated,\n[00:53 - 00:55] always striving to give my best in everything I do.\n[00:55 - 00:56] Thank you.\n[00:56 - 00:58] Thank you.",
+    "predictions": {
+        "speaking_skills": 0.45586812804699456,
+        "confidence_score": 0.423148757478621,
+        "interview_score": 0.3329256304529075,
+        "overall_performance": 0.42444601688908634,
+        "answer_score": null
+    },
+    "acoustic_features": {
+        "duration_sec": 58.48925,
+        "speaking_rate_wpm": 235.94079253879983,
+        "pause_count": null,
+        "long_pause_count": null,
+        "pause_ratio": 0.1005526656607839,
+        "mean_pitch": 192.54532125078404,
+        "pitch_variation": 40.353250366868,
+        "mean_energy": 0.0351164080202579
+    }
+}
